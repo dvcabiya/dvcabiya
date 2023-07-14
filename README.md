@@ -1,3 +1,15 @@
-<div style="justify-content:center; align-content:center;padding: 20px; border: 4px solid black; border-radius: 15px; width: 95vw;">
-  #hi there!
-</div>
+# Hi there!
+## I'm a software developer and CS student.
+I'm really passionate about CS and I like to do a little bit of everything, but right now I'm mostly working on web development and object-oriented projects, as is the norm.
+
+## Languages
+- Java
+- Python
+- Javascript
+## Technologies / Frameworks
+- HTML/CSS
+- Node.js
+- Express.js
+
+That's it for now, but I'm always trying to get better. Next up: React, MongoDB, ...C?
+
