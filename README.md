@@ -11,5 +11,5 @@ I'm really passionate about CS and I like to do a little bit of everything, but 
 - Node.js
 - Express.js
 
-That's it for now, but I'm always trying to get better. Next up: React, MongoDB, ...C?
+That's it for now.
 
