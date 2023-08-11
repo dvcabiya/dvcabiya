@@ -1,6 +1,6 @@
 # Hi there!
 ## I'm a software developer and CS student.
-I'm really passionate about CS and I like to do a little bit of everything, but right now I'm mostly working on web development and object-oriented projects, as is the norm.
+I'm really passionate about CS and I like to do a little bit of everything, but right now I'm mostly working on web development.
 
 ## Languages
 - Java
@@ -10,6 +10,8 @@ I'm really passionate about CS and I like to do a little bit of everything, but 
 - HTML/CSS
 - Node.js
 - Express.js
+- React.js
+- MongoDB
 
 That's it for now.
 
