@@ -15,3 +15,4 @@ I'm really passionate about CS and I like to do a little bit of everything, but 
 
 That's it for now.
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vcabiya)](https://github.com/anuraghazra/github-readme-stats)
