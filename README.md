@@ -15,7 +15,7 @@ I'm really passionate about CS and I like to do a little bit of everything, but 
 
 ### Professional Portfolio
 #### [vcabiya.com](http://vcabiya.com/)
-### Non-Professional
+### Personal
 #### [vcabiya.github.io](https://vcabiya.github.io/)
 
 That's it for now.
