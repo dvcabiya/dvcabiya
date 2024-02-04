@@ -13,9 +13,6 @@ I'm really passionate about CS and I like to do a little bit of everything, but 
 - React.js
 - MongoDB
 
-### Professional Portfolio
-#### [vcabiya.com](http://vcabiya.com/)
-### Personal
-#### [vcabiya.github.io](https://vcabiya.github.io/)
+#### [dvcabiya.github.io](https://dvcabiya.github.io/)
 
 That's it for now.
