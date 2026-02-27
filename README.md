@@ -1,4 +1,5 @@
 ### [dvcabiya.github.io](https://dvcabiya.github.io/)
 ### [linkedin.com/in/dvcabiya/](https://www.linkedin.com/in/dvcabiya/)
 
-![rabbpt](./aaa.png)
+![rabbit](./aaa.png)
+*photo of a rabbit...*
